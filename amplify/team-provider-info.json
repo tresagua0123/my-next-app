@@ -10,6 +10,11 @@
       "StackName": "amplify-mynextapp-dev-215114",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:028737355258:stack/amplify-mynextapp-dev-215114/5f35d5d0-d772-11ec-a3ab-0a0814765a09",
       "AmplifyAppId": "d19ojp2c9sw60e"
+    },
+    "categories": {
+      "auth": {
+        "mynextapp84a37b42": {}
+      }
     }
   }
 }
